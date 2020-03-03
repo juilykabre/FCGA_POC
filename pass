@@ -1,0 +1,111 @@
+
+1: Please Enter Product Name to start SmokeTest : (WC/GL)
+2: Sheet Name : TD_WC
+3: Product:WC
+4: ========********************************========
+5: New Quote is getting Created.
+6: TC - 1-Straight Through Flow is getting Executed.
+7: UserName: Acentria36
+8: Password:AI495!
+9: URL: https://dev_winston.fwcins.com/FWCPortal/User/Login/Login.html
+10: Current Label : Username is completely working.
+11: Current Label : Password is completely working.
+12:  : Login is completely working.
+13: Agent Log In is done Sucessfully
+14:  : Agency Contact is completely working.
+15: Agent Name is selected Sucessfully
+16:  : New Quote Button is clicked is completely working.
+17: Current Label : FEIN Number is Entered is completely working.
+18:  : Continue Button is clicked is completely working.
+19: New Quote is going to be created
+20:  : Click on State is completely working.
+21: Current Label : Class Code is completely working.
+22:  : Click on Continue is completely working.
+23: Current Label : Business Name is completely working.
+24: Insured Name / Business Name is : FCGA AUTM-013365791
+25:  : Click on Legal Entity is completely working.
+26: Current Label : Agent Entered DBA Name as Same as Business Name is completely working.
+27: Current Label : Address1 is been entered is completely working.
+28: Current Label : Zipcode is been entered is completely working.
+29: Current Label : Bussiness Start Date is entered is completely working.
+30:  : Click on Address 2 is completely working.
+31:  : Click on EmployerLimit is completely working.
+32: Current Label : Effective date is been entered is completely working.
+33: Current Label : Current Experience Mod is entered is completely working.
+34: Current Label : Owner/Officer First Name is been entered is completely working.
+35: Current Label : Owner/Officer Last Name is been entered is completely working.
+36: Current Label : Owner/Officer percentage is been entered is completely working.
+37:  : Exclude radio button is clicked is completely working.
+38: Current Label : Description is been entered is completely working.
+39: Current Label : Full time Employee is been entered is completely working.
+40: Current Label : Part time Employee is been entered is completely working.
+41: Current Label : Gross Annual Payroll is been entered is completely working.
+42:  : Next button is saved sucessfully. is completely working.
+43: Business Summary have been completed Sucessfully
+44: Bedding Plants is clicked
+45:  : Next button is saved sucessfully. is completely working.
+46: Current Label : Loss Page Carrier is completely working.
+47:  : Submit Losses is completely working.
+48: Current Label : WC Application Address is completely working.
+49: Current Label : WC Application City is completely working.
+50:  : WC Application State drop down is completely working.
+51: Current Label : WC Application Zipcode is completely working.
+52:  : Add Location button is completely working.
+53: Current Label : WC Application Address is completely working.
+54: Current Label : WC Application City is completely working.
+55:  : WC Application State drop down is completely working.
+56: Current Label : WC Application Zipcode is completely working.
+57:  : Add Location button is completely working.
+58: Current Label : Contact infromation Name is completely working.
+59: Current Label : Contact infromation Phone Number is completely working.
+60: Current Label : Contact infromation Email is completely working.
+61:  : Add Location button is completely working.
+62:  : Click on Agree Button is completely working.
+63:  : Click on Make Payment is completely working.
+64: Application Screen have been completed Sucessfully
+65:  : Click on Payment Option Full Pay is completely working.
+66:  : Click on Deposit Payment Method is completely working.
+67:  : Click on Check Issue Policy is completely working.
+68: WC Policy Number :FWFL0020270000
+69: Policy Issuance is completed successfully
+70: ========********************************========
+71: New Quote is getting Created.
+72: TC - 2-Straight Through Flow is getting Executed.
+73: UserName: Acentria36
+74: Password:AI495!
+75: URL: https://dev_winston.fwcins.com/FWCPortal/User/Login/Login.html
+76: Current Label : Username is completely working.
+77: Current Label : Password is completely working.
+78:  : Login is completely working.
+79: Agent Log In is done Sucessfully
+80:  : Agency Contact is completely working.
+81: Agent Name is selected Sucessfully
+82:  : New Quote Button is clicked is completely working.
+83: Current Label : FEIN Number is Entered is completely working.
+84:  : Continue Button is clicked is completely working.
+85: New Quote is going to be created
+86:  : Click on State is completely working.
+87: Current Label : Class Code is completely working.
+88:  : Click on Continue is completely working.
+89: Current Label : Business Name is completely working.
+90: Insured Name / Business Name is : FCGA AUTM-426885519
+91:  : Click on Legal Entity is completely working.
+92: Current Label : Agent Entered DBA Name as Same as Business Name is completely working.
+93: Current Label : Address1 is been entered is completely working.
+94: Current Label : Zipcode is been entered is completely working.
+95: Current Label : Bussiness Start Date is entered is completely working.
+96:  : Click on Address 2 is completely working.
+97:  : Click on EmployerLimit is completely working.
+98: Current Label : Effective date is been entered is completely working.
+99: Current Label : Current Experience Mod is entered is completely working.
+100: Current Label : Owner/Officer First Name is been entered is completely working.
+101: Current Label : Owner/Officer Last Name is been entered is completely working.
+102: Current Label : Owner/Officer percentage is been entered is completely working.
+103:  : Exclude radio button is clicked is completely working.
+104: Current Label : Description is been entered is completely working.
+105: Current Label : Full time Employee is been entered is completely working.
+106: Current Label : Part time Employee is been entered is completely working.
+107: Current Label : Gross Annual Payroll is been entered is completely working.
+108:  : Next button is saved sucessfully. is completely working.
+109: Business Summary have been completed Sucessfully
+110: Bedding Plants is clicked
